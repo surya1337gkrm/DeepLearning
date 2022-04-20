@@ -1,2 +1,11 @@
 /CatsAndDogs
 /tmp
+/CatsAndDogs.h5
+/AnimalModel.h5
+/AnimalImageDataset
+/ObjectDetection/protoc
+/ObjectDetection/tfod
+/ObjectDetection/yolo-animal-detection-small
+/ObjectDetection/1. Image Collection.ipynb
+/ObjectDetection/Tensorflow
+/.ipynb_checkpoints
